@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+}
+.header{
+    padding: 5px;
+    background-color: midnightblue;
+    color:black;
+    column-count: 2;
+    font-family: sans-serif;
+}
+.header1{
+    color: white;
+}
+.header2{
+    text-align: left;
+    color: white;
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.header3{
+    color: yellow;
+}
+.header4{
+    color:yellow;
+}
+.navigation{
+    padding: 20px;
+    background-color: white;
+}
+.box{
+    border: 1px solid black;
+    width: 900px;
+    height: 35px;
+    margin-left: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: midnightblue;
+    font-size: 15px;
+}
+ul a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: yellow;
+}
+.aside{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.box1{
+    border: 1px solid black;
+    width: 800px;
+    height:400px;
+    margin-left: 100px;
+    text-align: left;
+}
+.article{
+    padding: 20px;
+    background-color: whitesmoke;
+    column-count: 3;
+}
+.box2{
+    border: 1px solid whitesmoke;
+    width: 200px;
+    height: 300px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+.house{
+    background-color: midnightblue;
+}
+.box3{
+    border: 1px solid whitesmoke;
+    width: 200px;
+    height: 300px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+.commercial{
+    background-color: midnightblue;
+}
+.box4{
+    border: 1px solid whitesmoke;
+    width: 200px;
+    height: 300px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+.windows{
+    background-color: midnightblue;
+}
+.content{
+    padding:30px;
+    background-color: white;
+    column-count: 3;
+}
+.box5{
+    border: 1px solid white;
+    width: 300px;
+    height: 600px;
+    margin-right: 50px;
+    font-family: sans-serif
+}
+.services{
+    text-align: center;
+    background-color: midnightblue;
+    color:white;
+}
+.service1{
+    color:blue;
+}
+.service2{
+    color:blue;
+}
+.service3{
+    color:blue;
+}
+.box6{
+    border: 1px solid white;
+    width: 300px;
+    height: 600px;
+    font-family: sans-serif;
+}
+.welcome{
+    background-color: ghostwhite;
+    color: blueviolet;
+}
+.welcome1{
+    color: hotpink;
+}
+.welcome2{
+    color:red;
+}
+.welcome3{
+    color: black;
+}
+.box7{
+    border: 1px solid white;
+    width: 300px;
+    height: 600px;
+    font-family: sans-serif;
+}
+.about{
+    background-color: ghostwhite;
+    color: blueviolet;
+}
+.about1{
+    color:hotpink;
+}
+.footer{
+    background-color: midnightblue;
+    color: yellow;
+}
+.footer2{
+    text-align: right;
+    margin-bottom: 20px;
+}
+ol a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color:white;
+}
